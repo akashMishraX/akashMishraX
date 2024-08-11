@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**akashMishraX/akashMishraX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://github.com/mak650650">Akash mishra</a></b>
+        </samp>
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 I Code 」
+                <br>
+                「 I am a developer currently curious in <b>Nodejs</b>,<b>Linux</b> and  <b>Machine learning</b> 」
+                <br>
+                「  I’m currently learning <b>Nodejs</b>,<b>Web development</b>* 」
+                <br>
+                「 TO connect with me: <a href = "mailto: mak650650@gmail.com">Send Email</a>  」
+        </samp>
+</p>
