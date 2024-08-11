@@ -12,10 +12,10 @@
         <samp>
                 「 I Code 」
                 <br>
-                「 I am a developer currently curious in <b>Nodejs</b>,<b>Linux</b> and  <b>Machine learning</b> 」
+                「 Love building things  」
                 <br>
-                「  I’m currently learning <b>Nodejs</b>,<b>Web development</b>* 」
+                 「 .py , .tsx , .js , .ts  」
                 <br>
-                「 TO connect with me: <a href = "mailto: mak650650@gmail.com">Send Email</a>  」
+                「 TO connect with me: <a href = "mailto: akashmishraX1@gmail.com">Send Email</a>  」
         </samp>
 </p>
