@@ -10,11 +10,11 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 I Code 」
+                「 I Build 」
                 <br>
-                「 Love building things  」
+                「 Love building difficult and complex things. 」
                 <br>
-                 「 .py | .tsx | .js | .ts  」
+                 「 .py | .ts | .js | .tsx  」
                 <br>
                 「 TO connect with me: <a href = "mailto: akashmishraX1@gmail.com">Send Email</a>  」
         </samp>
