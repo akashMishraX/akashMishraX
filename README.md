@@ -14,7 +14,7 @@
                 <br>
                 「 Love building difficult and complex things. 」
                 <br>
-                 「 .py | .ts | .js | .tsx  」
+                 「 .ts  | .py | .js | .tsx  」
                 <br>
                 「 TO connect with me: <a href = "mailto: akashmishraX1@gmail.com">Send Email</a>  」
         </samp>
