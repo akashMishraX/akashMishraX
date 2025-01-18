@@ -15,6 +15,8 @@
                 「 Love building difficult and complex things. 」
                 <br>
                  「 .ts  | .py | .js | .tsx  」
+                「 postgres | redis | docker 」
+                「 webrtc | websockets | restapi  」
                 <br>
                 「 TO connect with me: <a href = "mailto: akashmishraX1@gmail.com">Send Email</a>  」
         </samp>
